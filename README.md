@@ -63,6 +63,5 @@ Sistema web para gerenciamento de vagas de emprego com funcionalidades para cada
 6. Utilize a interface para gerenciar vagas, categorias e inscrições.
 
 ### Demonstração do projeto
-www.youtube.com/watch?time_continue=2&v=xphbhypJTPs&embeds_referring_euri=https%3A%2F%2Fapnp.ifsul.edu.br%2F&embeds_referring_origin=https%3A%2F%2Fapnp.ifsul.edu.br&source_ve_path=NzY3NTg
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xphbhypJTPs?si=i7R6z03BL2m6UUSu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

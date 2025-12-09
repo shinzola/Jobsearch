@@ -63,5 +63,13 @@ Sistema web para gerenciamento de vagas de emprego com funcionalidades para cada
 6. Utilize a interface para gerenciar vagas, categorias e inscrições.
 
 ### Demonstração do projeto
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xphbhypJTPs?si=i7R6z03BL2m6UUSu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6872fe93-2d36-40e1-9c77-deaeeca4454e" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ec5a9073-ca30-486f-8ff7-e551cef54f92" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/af800ea8-add0-47eb-bb20-e29d04769516" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e6effc27-77b4-4026-b517-a4c5cb6365b3" />
+
+
 
